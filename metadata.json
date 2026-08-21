@@ -1,0 +1,6 @@
+{
+  "name": "AI Career Coach & Interview Simulator",
+  "description": "An AI-powered job search agent, career coach, and interactive interview simulator with resume analysis, roadmaps, and voice-assisted mock interviews.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
